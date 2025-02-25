@@ -3,22 +3,22 @@
 // The comments.html file should be in the same directory as comments.js.
 // The comments.html file should contain the following HTML:
 // <!DOCTYPE html> 
-// <html>
-// <head>   
-//   <title>Comments</title>
-// </head>
-// <body>
+<html>
+<head>   
+  <title>Comments</title>
+</head>
+<body>
 
-//   <h1>Comments</h1>
-//   <ul>
-//     <li>Comment 1</li>
-//     <li>Comment 2</li>
-//     <li>Comment 3</li>
-//   </ul>
+  <h1>Comments</h1>
+  <ul>
+    <li>Comment 1</li>
+    <li>Comment 2</li>
+    <li>Comment 3</li>
+  </ul>
 
-// </body>
-// </html>
+</body>
+</html>
 // The comments.js file should contain the following code:
-// const http = require('http');
-// const fs = require('fs');
-// const path = require('path');
+const http = require('http');
+const fs = require('fs');
+const path = require('path');
